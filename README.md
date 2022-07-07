@@ -2,7 +2,7 @@
 
 - ✅ 15 years
 - 📙 Estudante
-- 📚 Estudando Python e C
+- 📚 Estudando CSS e Node.js
 - 
 - <div align="center">
   <a href="https://github.com/Carlos-Daniel-Dev">
