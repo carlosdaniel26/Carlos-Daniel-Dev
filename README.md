@@ -2,7 +2,7 @@
 
 - ✅ 15 years
 - 📙 Estudante
-- 📚 Estudando CSS e JS
+- 📚 Estudando PHP E SQL
 - 
 - <div align="center">
   <a href="https://github.com/Carlos-Daniel-Dev">
