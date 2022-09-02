@@ -1,7 +1,6 @@
 ### Ola, eu sou o Carlos-Daniel 👋
 
 - ✅ 15 years
-- 📙 Estudante
 - 📚 Estudando Javascript
 - 
 - <div align="center">
