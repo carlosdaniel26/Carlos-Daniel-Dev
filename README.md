@@ -1,7 +1,7 @@
 ### Ola! 👋
 
 ## Contato 
-<img align="center" height="50" width="60" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 - <div align="center">
   <a href="https://github.com/Carlos-Daniel-Dev">
