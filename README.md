@@ -10,11 +10,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" heigth-"70">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" heigth-"70">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" heigth-"70">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" heigth-"70">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" heigth-"70">
+<p>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" heigth-"70">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" heigth-"70">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" heigth-"70">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" heigth-"70">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" heigth-"70">
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-daniel-dev&show_icons=true&locale=en&layout=compact" alt="carlos-daniel-dev" /></p>
 
