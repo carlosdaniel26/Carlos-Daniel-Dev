@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&theme=dark&show_icons=true" alt="carlos-daniel-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&show_icons=true&locale=en" alt="carlos-daniel-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="carlos-daniel-dev" /></p>
