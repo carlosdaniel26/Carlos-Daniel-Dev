@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" heigth-"40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth-"50">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-daniel-dev&show_icons=true&locale=en&layout=compact" alt="carlos-daniel-dev" /></p>
 
