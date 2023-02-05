@@ -18,6 +18,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" heigth-"50">
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="carlos-daniel-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&theme=dark&show_icons=true" alt="carlos-daniel-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&show_icons=true&locale=en" alt="carlos-daniel-dev" /></p>
