@@ -20,4 +20,4 @@
 
 <p><img heigth="140em" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&theme=dark&show_icons=true" alt="carlos-daniel-dev" /></p>
 
-<p>&nbsp;<img heigth="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="carlos-daniel-dev" /></p>
+<p>&nbsp;<img heigth="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-daniel-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="carlos-daniel-dev" /></p>
