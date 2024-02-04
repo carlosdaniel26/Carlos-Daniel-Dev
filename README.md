@@ -13,7 +13,3 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" heigth-"50">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" heigth-"50">
  </p>
-
-<p><img heigth="140em" src="https://github-readme-stats.vercel.app/api?username=carlos-daniel-dev&theme=dark&show_icons=true" alt="carlos-daniel-dev" /></p>
-
-<p>&nbsp;<img heigth="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-daniel-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="carlos-daniel-dev" /></p>
