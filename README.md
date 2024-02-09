@@ -6,8 +6,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" heigth-"50" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" heigth-"50">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" heigth-"50">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" heigth-"50">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" heigth-"50" />
  </p>
